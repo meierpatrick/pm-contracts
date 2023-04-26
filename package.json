@@ -1,0 +1,25 @@
+{
+  "name": "pm-contracts",
+  "version": "1.0.0",
+  "description": "Solidity library for  reusable smart contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test pm-contracts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickdevelopes/pm-contracts.git"
+  },
+  "keywords": [
+    "solidity",
+    "smart",
+    "contracts",
+    "blockchain"
+  ],
+  "author": "Patrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickdevelopes/pm-contracts/issues"
+  },
+  "homepage": "https://github.com/patrickdevelopes/pm-contracts#readme"
+}
